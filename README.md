@@ -9,7 +9,7 @@
 꾸준한 자기성장만이 실력 있는 개발자를 만듭니다!
 
 
-<h3>Languages & Tools</h3>
+<h3>Languages</h3>
 
 <img src="https://img.shields.io/badge/Javascript-ES6-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a"/></a>
 <img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a"/></a><br>
@@ -52,3 +52,7 @@
 <img src="https://img.shields.io/badge/Adobe XD-informational?style=flat&logo=Adobe XD&logoColor=white&color=2bbc8a"/></a>
 
 
+<h3>Tools</h3>
+
+<img src="https://img.shields.io/badge/Slack-informational?style=flat&logo=Slack&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a"/></a>
