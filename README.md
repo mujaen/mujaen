@@ -56,3 +56,4 @@
 
 <img src="https://img.shields.io/badge/Slack-informational?style=flat&logo=Slack&logoColor=white&color=2bbc8a"/></a>
 <img src="https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/Notion-informational?style=flat&logo=Notion&logoColor=white&color=2bbc8a"/></a>
