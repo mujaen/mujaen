@@ -16,8 +16,9 @@
 <img src="https://img.shields.io/badge/React-CRA, Hook, Context-informational?style=flat&logo=React&logoColor=white&color=2bbc8a"/></a><br>
 <img src="https://img.shields.io/badge/Redux-Thunk, Promise-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a"/></a><br>
 
-<h3>Server</h3>
+<h3>Framework(Server)</h3>
 
+<img src="https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a"/></a>
 <img src="https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a"/></a><br>
 
@@ -31,3 +32,23 @@
 <img src="https://img.shields.io/badge/Portainer-informational?style=flat&logo=Portainer&logoColor=white&color=2bbc8a"/></a>
 <img src="https://img.shields.io/badge/Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a"/></a><br>
 <img src="https://img.shields.io/badge/AWS-EC2, Route53, Elastic Beanstalk-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a"/></a>
+
+<h3>Task Runner</h3>
+
+<img src="https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/gulp-informational?style=flat&logo=gulp&logoColor=white&color=2bbc8a"/></a>
+
+
+<h3>Unit test & Linter</h3>
+
+<img src="https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/Prettier-informational?style=flat&logo=Prettier&logoColor=white&color=2bbc8a"/></a>
+
+
+<h3>With Design</h3>
+
+<img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/Zeplin-informational?style=flat&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/Adobe XD-informational?style=flat&logo=Adobe XD&logoColor=white&color=2bbc8a"/></a>
+
+
