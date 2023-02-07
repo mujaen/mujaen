@@ -11,10 +11,14 @@
 
 <h3>Languages</h3>
 
-<img src="https://img.shields.io/badge/Javascript-ES6-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a"/></a>
-<img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a"/></a><br>
+<img src="https://img.shields.io/badge/Javascript-ES6-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a"/></a> <br> 
+<img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a"/></a>
+
+
+<h3>Front-end</h3>
+
 <img src="https://img.shields.io/badge/React-CRA, Hook, Context-informational?style=flat&logo=React&logoColor=white&color=2bbc8a"/></a><br>
-<img src="https://img.shields.io/badge/Redux-Thunk, Promise-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a"/></a><br>
+<img src="https://img.shields.io/badge/Redux-Saga, Promise-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a"/></a><br>
 <img src="https://img.shields.io/badge/GraphQL-Apollo-informational?style=flat&logo=GraphQL&logoColor=white&color=2bbc8a"/></a><br>
 
 <h3>Framework(Server)</h3>
@@ -32,7 +36,8 @@
 <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a"/></a>
 <img src="https://img.shields.io/badge/Portainer-informational?style=flat&logo=Portainer&logoColor=white&color=2bbc8a"/></a>
 <img src="https://img.shields.io/badge/Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a"/></a><br>
-<img src="https://img.shields.io/badge/AWS-EC2, Route53, Elastic Beanstalk-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/AWS-EC2, Route53, Elastic Beanstalk-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a"/></a><br>
+<img src="https://img.shields.io/badge/Firebase-Authentication, Firestore-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a"/></a>
 
 <h3>Task Runner</h3>
 
