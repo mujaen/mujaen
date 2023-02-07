@@ -2,7 +2,7 @@
 
 <br/>
 
-[**배움**](https://www.jinjer-dev.site/)과 [**도전**](https://github.com/mujaen)을 즐기는 **프론트엔드 개발자** 김민호입니다.<br/>
+[**배움**](https://velog.io/@mujaen)과 [**도전**](https://www.jinjer-dev.site/)을 즐기는 **프론트엔드 개발자** 김민호입니다.<br/>
 무슨 일이든 잘하기 위해서는 반복적인 연마가 필요하죠.<br/><br/> 
 개발도 예외는 없습니다<br/>
 특히 새로운 기술이 끊임없이 나오는 우리 분야에서는<br/> 
