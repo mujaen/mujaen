@@ -18,7 +18,7 @@
 <h3>Front-end</h3>
 
 <img src="https://img.shields.io/badge/React-CRA, Hook, Context-informational?style=flat&logo=React&logoColor=white&color=2bbc8a"/></a><br>
-<img src="https://img.shields.io/badge/Redux-Saga, Promise-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a"/></a><br>
+<img src="https://img.shields.io/badge/Redux-Saga, Toolkit-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a"/></a><br>
 <img src="https://img.shields.io/badge/GraphQL-Apollo-informational?style=flat&logo=GraphQL&logoColor=white&color=2bbc8a"/></a><br>
 
 <h3>Framework(Server)</h3>
