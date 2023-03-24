@@ -18,8 +18,10 @@
 <h3>Front-end</h3>
 
 <img src="https://img.shields.io/badge/React-CRA, Hook, Context-informational?style=flat&logo=React&logoColor=white&color=2bbc8a"/></a><br>
-<img src="https://img.shields.io/badge/Redux-Saga, Toolkit-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a"/></a><br>
-<img src="https://img.shields.io/badge/GraphQL-Apollo-informational?style=flat&logo=GraphQL&logoColor=white&color=2bbc8a"/></a><br>
+<img src="https://img.shields.io/badge/Redux-Saga, Toolkit-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/TanStack-informational?style=flat&logo=TanStack&logoColor=white&color=2bbc8a"/></a><br>
+<img src="https://img.shields.io/badge/GraphQL-Apollo-informational?style=flat&logo=GraphQL&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=2bbc8a"/></a><br>
 
 <h3>Framework(Server)</h3>
 
@@ -34,7 +36,7 @@
 <img src="https://img.shields.io/badge/GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=2bbc8a"/></a>
 <br><br>
 <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a"/></a>
-<img src="https://img.shields.io/badge/Portainer-informational?style=flat&logo=Portainer&logoColor=white&color=2bbc8a"/></a>
+<img src="https://img.shields.io/badge/Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=2bbc8a"/></a>
 <img src="https://img.shields.io/badge/Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a"/></a><br>
 <img src="https://img.shields.io/badge/AWS-EC2, Route53, Elastic Beanstalk-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a"/></a><br>
 <img src="https://img.shields.io/badge/Firebase-Authentication, Firestore-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a"/></a>
